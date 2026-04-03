@@ -1,0 +1,42 @@
+/* Remove top blank space from main layout */
+.block-container {
+    padding-top: 1.5rem !important;
+    padding-bottom: 1rem !important;
+    margin-top: 0rem !important;
+}
+
+/* Panel properties for elements like metrics and layout containers */
+div[data-testid="metric-container"] {
+    background-color: #FFFFFF;
+    padding: 15px 20px;
+    border-radius: 12px;
+    box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.05);
+    border-left: 5px solid #CCA33A;
+}
+
+[data-testid="stMetricValue"] {
+    color: #314842 !important;
+    font-weight: bold;
+}
+
+.plot-container.plotly {
+    background-color: #FFFFFF;
+    border-radius: 12px;
+    padding: 10px;
+    box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.05);
+}
+
+/* Fix dropdown font colors and size */
+div[data-baseweb="select"] * {
+    color: #314842 !important;
+    font-size: 1.05rem !important;
+}
+div[data-baseweb="popover"] * {
+    color: #314842 !important;
+    font-size: 1.05rem !important;
+}
+
+/* Dashboard body text scale */
+.stMarkdown p, .stWidgetLabel p, .stToggle p {
+    font-size: 1.15rem !important;
+}
