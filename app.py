@@ -1,4 +1,9 @@
 import streamlit as st
+import sys
+import os
+
+# Ensure the root directory is on the path for Streamlit Cloud
+sys.path.append(os.path.dirname(os.path.abspath(__file__)))
 
 # 1. Page Config
 st.set_page_config(page_title="Hospital Queue Simulation", layout="wide")
