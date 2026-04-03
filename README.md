@@ -58,3 +58,11 @@ hospital-queue-dashboard/
 
 ## 🎓 Academic Context
 This project was developed as a mini-project for **Operations Research**, demonstrating the practical application of queuing theory in healthcare management settings.
+
+## Preview
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/a5104cfb-cdf4-4acc-8b52-f2db2e7b8e0e" />
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/6833f5ce-ed01-47ae-bb4f-0a5a76d7760e" />
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/3c420ad9-3c13-485d-9f86-96dd1eab90ce" />
+
+
+
